@@ -9,8 +9,8 @@
         NL
     LOOP
 ;
-
-
+: HELP 0 LIST ;
+: help HELP ;
 
 
 
