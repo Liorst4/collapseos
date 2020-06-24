@@ -1,5 +1,20 @@
 # Collapse OS
 
+## Moved to Sourcehut
+
+The project has been moved to <https://sr.ht/~vdupras/collapseos/>. See
+[issue #127](https://github.com/hsoft/collapseos/issues/127) for details.
+
+If it hasn't been already, this repo will end up being put in Archived mode.
+Some issues opened on Github open very interesting discussions. Do not
+hesitate to begin a thread referring to a Github issue on the mailing list
+associated to the project on Sourcehut.
+
+Until the project is archived, know that any PR opened here will be ignored.
+Please submit a patch on the mailing list.
+
+## Presentation
+
 *Bootstrap post-collapse technology*
 
 Collapse OS is a Forth operating system and a collection of tools and
